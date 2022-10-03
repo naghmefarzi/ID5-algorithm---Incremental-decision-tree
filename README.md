@@ -12,7 +12,7 @@ The algorithm for handling an instance is:
 3. If only positive instances or only negative instances have been observed at the given node, then store the rest of the training instance. Stop.
 4. Recursively update the decision tree below the value of "A_best" in the instance description.
 
-NOTE: INFO phrase in article considered as E-score, moreover a test attribute is a partitioner attribute in the tree.
+NOTE: INFO phrase in article considered as Entropy-score.
 
 
 # Evaluation:
