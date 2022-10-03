@@ -16,6 +16,9 @@ NOTE: INFO phrase in article considered as Entropy-score.
 
 
 # Evaluation:
-5-fold cross validation
-accuracy
-Reducing Error, Proning-4 different depths accuracies
+
+5-fold cross validation.
+
+accuracy.
+
+Reducing Error, Proning-4 different depths accuracies.
