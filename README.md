@@ -21,4 +21,4 @@ NOTE: INFO phrase in article considered as Entropy-score.
 
 accuracy.
 
-Reducing Error, Proning-4 different depths accuracies.
+Reducing Error, Proning-4 different depths.
